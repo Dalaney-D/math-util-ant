@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T03:12:25Z" name="math-util-ant" finished-at="2022-10-14T03:12:25Z" duration-ms="139">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T03:12:25Z" name="com.nghiapd.mathutil.core.MathUtilDDTTest" finished-at="2022-10-14T03:12:25Z" duration-ms="94">
+      <class name="com.nghiapd.mathutil.core.MathUtilDDTTest">
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[0]" finished-at="2022-10-14T03:12:25Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[0] -->
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[1]" finished-at="2022-10-14T03:12:25Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[1] -->
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[2]" finished-at="2022-10-14T03:12:25Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[2] -->
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[3]" finished-at="2022-10-14T03:12:25Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[3] -->
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[5]" finished-at="2022-10-14T03:12:25Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[5] -->
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[6]" finished-at="2022-10-14T03:12:25Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[6] -->
+        <test-method signature="testFactorialGivenRightArgumentReturnWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnWell[4]" finished-at="2022-10-14T03:12:25Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnWell[4] -->
+      </class> <!-- com.nghiapd.mathutil.core.MathUtilDDTTest -->
+    </test> <!-- com.nghiapd.mathutil.core.MathUtilDDTTest -->
+    <test started-at="2022-10-14T03:12:25Z" name="com.nghiapd.mathutil.core.MathutilTest" finished-at="2022-10-14T03:12:25Z" duration-ms="4">
+      <class name="com.nghiapd.mathutil.core.MathutilTest">
+        <test-method signature="testFactorialGivenWrongArgumentThrowsException()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenWrongArgumentThrowsException" finished-at="2022-10-14T03:12:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenWrongArgumentThrowsException -->
+        <test-method signature="tryAssert()" started-at="2022-10-14T03:12:25Z" name="tryAssert" finished-at="2022-10-14T03:12:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryAssert -->
+        <test-method signature="testFactorialGivenRightArgumentReturnsWell()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnsWell" finished-at="2022-10-14T03:12:25Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnsWell -->
+        <test-method signature="testFactorialGivenRightArgumentReturnsWell2()" started-at="2022-10-14T03:12:25Z" name="testFactorialGivenRightArgumentReturnsWell2" finished-at="2022-10-14T03:12:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialGivenRightArgumentReturnsWell2 -->
+      </class> <!-- com.nghiapd.mathutil.core.MathutilTest -->
+    </test> <!-- com.nghiapd.mathutil.core.MathutilTest -->
+  </suite> <!-- math-util-ant -->
+</testng-results>

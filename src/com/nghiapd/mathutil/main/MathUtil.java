@@ -21,14 +21,15 @@ public class MathUtil {
         if (n < 0 || n > 20) {
             throw new IllegalArgumentException("Invalid n. N must be between 0 -> 20");
         }
-        if (n == 0 || n == 1) {
-            return 1;
-        }
-        long product = 1;
-        for (int i = 2; i <= n; i++) {
-            product *= i;
-        }
-        return product;
+//        if (n == 0 || n == 1) {
+//            return 1;
+//        }
+//        long product = 1;
+//        for (int i = 2; i <= n; i++) {
+//            product *= i;
+//        }
+//        return product;
+        return n * getFactorial(n - 1);
     }
 
 //hoc ki thuat viet code dc goi la` TDD (test driven development)
